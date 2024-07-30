@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Pulsar-Current-Fix": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
